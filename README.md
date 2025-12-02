@@ -1,4 +1,4 @@
-# Centered Bookmarks
+# Zen Browser Centered Bookmarks
 
 Centers the bookmarks toolbar under the search bar for a cleaner, balanced look in Zen Browser.
 
