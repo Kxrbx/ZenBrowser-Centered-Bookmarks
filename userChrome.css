@@ -1,0 +1,37 @@
+/* Zen Browser - Centered Bookmarks Toolbar */
+
+/* This mod centers the bookmarks toolbar under the search bar */
+
+ 
+
+#PersonalToolbar {
+
+  display: flex !important;
+
+  justify-content: center !important;
+
+}
+
+ 
+
+#PlacesToolbar,
+
+#PlacesToolbarItems {
+
+  display: flex !important;
+
+  justify-content: center !important;
+
+}
+
+ 
+
+/* Optional: Adjust spacing for better appearance */
+
+#PlacesToolbarItems > .bookmark-item {
+
+  margin-inline: 4px !important;
+
+}
+
+ 
