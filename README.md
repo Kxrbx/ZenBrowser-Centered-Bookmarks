@@ -41,7 +41,8 @@ You can adjust the spacing between bookmarks by editing the `userChrome.css` fil
 
 ## Screenshots
 
-[Screenshot showing centered bookmarks will be added]
+<img width="1466" height="112" alt="{A34063B6-415C-4974-9826-637406311F10}" src="https://github.com/user-attachments/assets/1c05c787-1e3e-424b-a190-e307b85ede3c" />
+
 
 ## Support
 
